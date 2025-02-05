@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @EmbeddedCode-pk
-# Welcome to Embedded Horizons 🌐
-
 Welcome to my GitHub repository! I'm Abu Bakr, an Electrical Engineering student in Islamabad, with a passion for embedded systems, IoT, and microcontroller programming. I aim to share my journey, knowledge, and projects with the community, making embedded systems accessible and fun for everyone.
 
 ---
@@ -24,16 +21,7 @@ This repository is a collection of projects, tutorials, and resources related to
 
 ---
 
-## Current Focus 🌟
-- **30 Days of ESP32 Learning**: A series of bite-sized tutorials covering ESP32 basics and advanced topics
-- **Open-Source Contribution**: Sharing code and collaborating with the community
-- **Creative Innovations**: From smart locks to electric bicycles, blending technology with everyday life
-
----
-
 ## Connect with Me 🤝
-Follow my journey on Instagram: [@embedded_pak](https://www.instagram.com/embedded_pak) for project updates, tutorials, and more.
-
 For collaborations or questions, feel free to reach out at **raoabubakrhashim@gmail.com**.
 
 ---
